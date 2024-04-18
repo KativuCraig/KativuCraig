@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: SIR
 - ⚡ Fun fact: I am an Artist
 -->
-![image1](https://github.com/KativuCraig/KativuCraig/assets/161621941/25782e33-aa1a-40b0-8fea-10eeb9be3d65)
