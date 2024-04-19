@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KativuCraig/KativuCraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning Mobile Development
 - 👯 I’m looking to collaborate on Website Development
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tafadzwacraig95@gmail.com
 - 😄 Pronouns: SIR
 - ⚡ Fun fact: I am an Artist
--->
+![image1](https://github.com/KativuCraig/KativuCraig/assets/161621941/b001ae1b-25dc-4be6-b60c-6900c85ab26f)
